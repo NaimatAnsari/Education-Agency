@@ -52,7 +52,9 @@ const Contact = () => {
 {/* <!-- gmap --> */}
 <section className="section pt-0">
   {/* <!-- Google Map --> */}
-  <div id="map_canvas" data-latitude="51.507351" data-longitude="-0.127758"></div>
+  <div id="map_canvas" > 
+    {/* I frame Google Map is Here */}
+  </div>
 </section>
 {/* <!-- /gmap --></div> */}
     </>
